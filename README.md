@@ -1,4 +1,3 @@
-# Evolutio
 # **Evolutio**
 
 By: William Sokol and Nikolai Sokol
