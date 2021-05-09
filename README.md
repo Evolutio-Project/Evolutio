@@ -32,19 +32,19 @@ Here are some things that&#39;d be added in later or not at all:
 
 **Creature Market :**
 
-![](RackMultipart20210509-4-93fmxr_html_f7a4cc592482365b.png)
+![alt text](https://github.com/williamsokol/Evolutio/blob/main/Images/sporepidia.png?raw=true)
+
 
 This is a good representation of
-
 for how the creature market should
-
 be. Something important about the
-
 market is that people put their creatures on the market so other people can buy them.
 
-**The Creatures:**![](RackMultipart20210509-4-93fmxr_html_a573db3e4f3fc2cb.jpg)
+**The Creatures:**
 
-![](RackMultipart20210509-4-93fmxr_html_4033c38a67fbce96.png)
+![alt text](https://github.com/williamsokol/Evolutio/blob/main/Images/Evolved_Virtual_Creature_(Rolling_Ribbon).png?raw=true)
+![alt text](https://github.com/williamsokol/Evolutio/blob/main/Images/creature1.jpg?raw=true)
+
 
 **The Evolution Mechanics:**
 
