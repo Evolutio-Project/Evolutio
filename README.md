@@ -57,3 +57,6 @@ market is that people put their creatures on the market so other people can buy 
 - Ideally you can have multiple very similar creatures in the game
 - There will be a public ranking of the creatures, and in it you can the stats of the best creatures
 - You are able to sell and grow new creatures at will and can possible (because they are nfts) make really money from doing so
+
+
+test
